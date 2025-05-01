@@ -72,6 +72,10 @@ chainlit run chainlit_app.py
 ![Web Search and News](screenshots/web_search.png)
 *Latest news and information retrieved from the web based on your queries.*
 
+### Calendar Events
+![Calendar Events](screenshots\calander_events.png)
+*View and manage your calendar events, meetings, and appointments with natural language commands.*
+
 ## Features
 
 ### Bank Statement Search
