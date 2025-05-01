@@ -1,0 +1,14 @@
+langchain 
+langgraph 
+openai 
+azure-search-documents 
+langchain-openai 
+google-api-python-client 
+google-auth-oauthlib 
+requests 
+PyMuPDF
+langchain-community
+langchain-openai
+langchain_google_community
+python-dotenv
+chainlit

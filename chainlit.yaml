@@ -1,0 +1,24 @@
+# Application settings
+app_name: "Personal Assistant"
+page_title: "Personal Assistant"
+description: "Your AI assistant for calendar, tasks, weather, finance, and more"
+
+# UI settings
+theme:
+  primary_color: "#007FFF"
+
+# Features
+features:
+  prompt_playground:
+    enabled: true
+    user_prompt_name: "Your message"
+
+# Markdown file settings
+markdown_file: "chainlit.md"
+
+# Env validation (optional)
+environment_variables:
+  - AZURE_OPENAI_API_KEY
+  - AZURE_OPENAI_ENDPOINT
+  - OPENAI_API_VERSION
+  - AZURE_OPENAI_DEPLOYMENT_NAME 
