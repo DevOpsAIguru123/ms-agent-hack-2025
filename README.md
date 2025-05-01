@@ -1,4 +1,4 @@
-# AI Personal Assistant with Chainlit
+# AI Personal Assistant
 
 A web-based AI assistant that integrates with Azure OpenAI and various APIs to help with tasks like:
 - Bank statement search and vector database querying
@@ -47,6 +47,30 @@ chainlit run chainlit_app.py
 ```
 
 4. Open your browser and navigate to http://localhost:8000
+
+## Application Screenshots
+
+> Note: The placeholder images in the `screenshots` directory should be replaced with actual screenshots of your running application. Take screenshots of each functionality as you use the app and save them with the corresponding filenames.
+
+### Welcome Screen
+![Welcome Screen](screenshots/welcome_screen.png)
+*The main welcome screen showing available capabilities of the assistant.*
+
+### Bank Statement Information
+![Bank Statement Information](screenshots/bank_statement.png)
+*Example of bank statement information retrieval showing balance and transaction details.*
+
+### To-Do Task Management
+![Task Management](screenshots/todo_tasks.png)
+*View and manage your to-do tasks using natural language commands.*
+
+### Weather Information
+![Weather Information](screenshots/weather_info.png)
+*Current weather information and forecast with useful recommendations.*
+
+### Web Search and News
+![Web Search and News](screenshots/web_search.png)
+*Latest news and information retrieved from the web based on your queries.*
 
 ## Features
 
